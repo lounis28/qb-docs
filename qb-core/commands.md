@@ -216,4 +216,4 @@ description: A list of all the commands and their respective resource
 
 ### Weapons
 
-* /repairweapon - repairs a weapon
+* /repairweapon - repairs a weapon and you can select health of your weapon
