@@ -169,7 +169,7 @@ description: A list of all the commands and their respective resource
 ### Phone
 
 * /setmetadata - sets the players metadata
-* /bill - sends a bill\* /invoice to player
+* /bill - sends a bill\* /invoice to player (you can t bill your self
 
 ### RadialMenu
 
